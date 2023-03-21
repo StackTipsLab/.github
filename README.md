@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.stacktips.com/static/media/logo.png" width="100"/>
+  <a href="[/https://feeds.feedburner.com/stacktips/articles](https://stacktips.com/)" target="blank">
+     <img src="https://media.stacktips.com/static/media/logo.png" width="100"/>
+  </a>
 </div>
 <h1 align="center">Hi there 👋, we're StackTips</h1>
 <p align="left">StackTips brings developer-friendly ways to learn programming. With articles, programming course, and quizzes, we aim to teach in the ways developers learn best. We have over 500 articles and 300+ code snippets published by our valued community members.</h3>
