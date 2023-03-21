@@ -1,7 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.stacktips.com/static/media/logo.png" width="100"/>
+</div>
 <h1 align="center">Hi there 👋, we're StackTips</h1>
 <h3 align="center">StackTips brings developer-friendly ways to learn programming. With articles, programming course, and quizzes, we aim to teach in the ways developers learn best. We have over 500 articles and 300+ code snippets published by our valued community members.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stacktipslab&margin-w=15&margin-h=15" alt="stacktipslab" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stacktipslab&title=Followers,Stars,Commit,Repositories,Followers&margin-w=15&margin-h=15" alt="stacktipslab" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/stacktips" target="blank"><img src="https://img.shields.io/twitter/follow/stacktips?logo=twitter&style=for-the-badge" alt="stacktips" /></a> </p>
 
