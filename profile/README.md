@@ -1,12 +1,11 @@
 ## Hi there 👋
+<p align="left">StackTips brings developer-friendly ways to learn programming. With articles, programming courses, and quizzes, we aim to teach in the ways developers learn best. We have over 500 articles and 300+ code snippets published by our valued community members.</h3>
 
-<!--
+Created and maintained by <a href="https://twitter.com/@asknilan" target="blank">Nilanchala</a>
+<p><a href="https://twitter.com/stacktips" target="blank"><img src="https://img.shields.io/twitter/follow/stacktips?logo=twitter&style=for-the-badge" alt="stacktips" /></a>
+</p>
 
-**Here are some ideas to get you started:**
+### Recent Tutorials
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
