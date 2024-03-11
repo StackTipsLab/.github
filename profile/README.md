@@ -5,3 +5,8 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 
 <p><a href="https://twitter.com/stacktips" target="blank"><img src="https://img.shields.io/twitter/follow/stacktips?logo=twitter&style=for-the-badge" alt="stacktips" /></a>
 </p>
+
+### Recent posts on stacktips.com
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
