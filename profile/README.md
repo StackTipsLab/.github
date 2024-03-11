@@ -4,8 +4,3 @@
 Created and maintained by <a href="https://twitter.com/@asknilan" target="blank">Nilanchala</a>
 <p><a href="https://twitter.com/stacktips" target="blank"><img src="https://img.shields.io/twitter/follow/stacktips?logo=twitter&style=for-the-badge" alt="stacktips" /></a>
 </p>
-
-### Recent Tutorials
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
