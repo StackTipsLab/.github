@@ -9,6 +9,9 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 ### Recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Spring Boot Project Structure](https://stacktips.com/courses/spring-boot-for-beginners/understanding-spring-boot-project-structure)
+- [Logging in Spring Boot](https://stacktips.com/courses/spring-boot-for-beginners/logging-in-spring-boot)
+- [Dependency Injection in Spring Boot](https://stacktips.com/courses/spring-boot-for-beginners/dependency-injection-in-spring-boot)
 - [Testing Spring Boot Repository Using MongoDB Testcontainers](https://stacktips.com/articles/testing-spring-boot-repository-using-mongodb-testcontainers)
 - [Choosing from Multiple Bean Implementations in Spring Boot](https://stacktips.com/articles/choose-from-multiple-bean-types-springboot)
 - [Dynamic Scheduling in Quartz with Spring Boot Actuators](https://stacktips.com/articles/dynamic-scheduling-in-quartz-with-spring-boot-actuators)
@@ -26,9 +29,6 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 - [How to Convert Sorted List to Binary Search Tree](https://stacktips.com/articles/how-to-convert-sorted-list-to-binary-search-tree)
 - [Java program to Reverse Words in a String](https://stacktips.com/articles/java-program-to-reverse-words-in-a-string)
 - [Working with Profiles in Maven](https://stacktips.com/courses/maven-for-beginners/working-with-profiles-in-maven)
-- [Popular Maven Commands Cheat Sheet](https://stacktips.com/courses/maven-for-beginners/maven-commands-cheat-sheet)
-- [Local, Central, and Remote Repository in Maven](https://stacktips.com/courses/maven-for-beginners/local-central-remote-maven-repository)
-- [Dependency Management in Maven](https://stacktips.com/courses/maven-for-beginners/dependency-management-in-maven)
 - [Digital Image Processing Practice Quiz](https://stacktips.com/quizzes/digital-image-processing-practice-quiz)
 - [Getting Started with Spring Boot: A Beginner&#39;s Guide](https://stacktips.com/courses/spring-boot-for-beginners)
 - [Advanced Python Quiz to Test Your Knowledge](https://stacktips.com/quizzes/python-advance-skill-test)
