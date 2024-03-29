@@ -9,6 +9,7 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 ### Recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Flyway for Database Migration in Spring Boot](https://stacktips.com/articles/using-flyway-for-database-migration-in-spring-boot)
 - [Understanding Spring Boot Project Structure](https://stacktips.com/courses/spring-boot-for-beginners/understanding-spring-boot-project-structure)
 - [Logging in Spring Boot](https://stacktips.com/courses/spring-boot-for-beginners/logging-in-spring-boot)
 - [Dependency Injection in Spring Boot](https://stacktips.com/courses/spring-boot-for-beginners/dependency-injection-in-spring-boot)
@@ -28,7 +29,6 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 - [Java Program to Find the Minimum Depth of Binary Tree](https://stacktips.com/articles/java-program-to-find-the-minimum-depth-of-binary-tree)
 - [How to Convert Sorted List to Binary Search Tree](https://stacktips.com/articles/how-to-convert-sorted-list-to-binary-search-tree)
 - [Java program to Reverse Words in a String](https://stacktips.com/articles/java-program-to-reverse-words-in-a-string)
-- [Working with Profiles in Maven](https://stacktips.com/courses/maven-for-beginners/working-with-profiles-in-maven)
 - [Digital Image Processing Practice Quiz](https://stacktips.com/quizzes/digital-image-processing-practice-quiz)
 - [Getting Started with Spring Boot: A Beginner&#39;s Guide](https://stacktips.com/courses/spring-boot-for-beginners)
 - [Advanced Python Quiz to Test Your Knowledge](https://stacktips.com/quizzes/python-advance-skill-test)
