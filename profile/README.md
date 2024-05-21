@@ -9,6 +9,7 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 ### Recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Importing CSV Data into PostgreSQL using Spring Boot Batch](https://stacktips.com/articles/importing-csv-data-into-postgresql-using-spring-boot-batch)
 - [Digging into HTTP Clients in Spring: From RestTemplate to HTTP Interface](https://stacktips.com/articles/rest-clients-in-spring)
 - [Using Flyway for Database Migration in Spring Boot](https://stacktips.com/articles/using-flyway-for-database-migration-in-spring-boot)
 - [Understanding Spring Boot Project Structure](https://stacktips.com/courses/spring-boot-for-beginners/understanding-spring-boot-project-structure)
@@ -28,7 +29,6 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 - [Testing Spring Boot REST API using Mockito and MockMvc](https://stacktips.com/courses/spring-boot-for-beginners/testing-spring-boot-using-mockito-and-mockmvc)
 - [Order of Test Methods in JUnit5](https://stacktips.com/articles/the-order-of-tests-in-junit5)
 - [Java Program to Find the Minimum Depth of Binary Tree](https://stacktips.com/articles/java-program-to-find-the-minimum-depth-of-binary-tree)
-- [How to Convert Sorted List to Binary Search Tree](https://stacktips.com/articles/how-to-convert-sorted-list-to-binary-search-tree)
 - [Digital Image Processing Practice Quiz](https://stacktips.com/quizzes/digital-image-processing-practice-quiz)
 - [Getting Started with Spring Boot: A Beginner&#39;s Guide](https://stacktips.com/courses/spring-boot-for-beginners)
 - [Advanced Python Quiz to Test Your Knowledge](https://stacktips.com/quizzes/python-advance-skill-test)
