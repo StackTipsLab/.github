@@ -9,6 +9,7 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 ### Recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Collection APIs](https://stacktips.com/courses/java-collections)
 - [Static Variables, Methods, and Class](https://stacktips.com/courses/getting-started-with-java/static-keyowrd-in-java)
 - [Importing CSV Data into PostgreSQL using Spring Boot Batch](https://stacktips.com/articles/importing-csv-data-into-postgresql-using-spring-boot-batch)
 - [Digging into HTTP Clients in Spring: From RestTemplate to HTTP Interface](https://stacktips.com/articles/rest-clients-in-spring)
@@ -38,5 +39,4 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 - [CLF-C01 AWS Certified Cloud Practitioner Practice Exam - Set4](https://stacktips.com/quizzes/aws-certified-cloud-practitioner-practice-exam-set4)
 - [CLF-C01 AWS Certified Cloud Practitioner Practice Exam- Set3](https://stacktips.com/quizzes/aws-certified-cloud-practitioner-practice-exams-set3)
 - [CLF-C01 AWS Certified Cloud Practitioner Practice Exam - Set2](https://stacktips.com/quizzes/aws-certified-cloud-practitioner-clf-c01-practice-question-set-2)
-- [CLF-C01 AWS Certified Cloud Practitioner Practice Exam - Set1](https://stacktips.com/quizzes/aws-certified-cloud-practitioner-clf-c01-practice-question-set-1)
 <!-- BLOG-POST-LIST:END -->
