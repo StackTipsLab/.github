@@ -9,6 +9,11 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 ### Recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Stack in Java](https://stacktips.com/courses/java-collections/stack-in-java)
+- [Vector in Java](https://stacktips.com/courses/java-collections/vector-in-java)
+- [CopyOnWriteArrayList in Java](https://stacktips.com/courses/java-collections/copyonwritearraylist-in-java)
+- [LinkedList in Java](https://stacktips.com/courses/java-collections/linkedlist-in-java)
+- [ArrayList in Java](https://stacktips.com/courses/java-collections/arraylist-in-java)
 - [Java Collection APIs](https://stacktips.com/courses/java-collections)
 - [Static Variables, Methods, and Class](https://stacktips.com/courses/getting-started-with-java/static-keyowrd-in-java)
 - [Importing CSV Data into PostgreSQL using Spring Boot Batch](https://stacktips.com/articles/importing-csv-data-into-postgresql-using-spring-boot-batch)
@@ -25,11 +30,6 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 - [Validating @ConfigurationProperties in Spring Boot](https://stacktips.com/articles/validating-configurationproperties-in-spring-boot)
 - [Task Execution and Scheduling in Spring Boot](https://stacktips.com/articles/task-execution-and-scheduling-in-spring-boot)
 - [Handling XML Request and Response in Spring Boot REST](https://stacktips.com/articles/handling-xml-request-and-response-in-spring-boot-rest)
-- [How to Validate the @PathVariable in Spring Boot?](https://stacktips.com/articles/how-to-validate-the-pathvariable-in-spring-boot)
-- [Java 17 Interview Questions and Answers](https://stacktips.com/articles/java-17-interview-questions-and-answers)
-- [Creating Parameterized Tests in JUnit 5](https://stacktips.com/articles/parameterized-tests-in-junit-5)
-- [Testing Spring Boot REST API using Mockito and MockMvc](https://stacktips.com/courses/spring-boot-for-beginners/testing-spring-boot-using-mockito-and-mockmvc)
-- [Order of Test Methods in JUnit5](https://stacktips.com/articles/the-order-of-tests-in-junit5)
 - [Digital Image Processing Practice Quiz](https://stacktips.com/quizzes/digital-image-processing-practice-quiz)
 - [Getting Started with Spring Boot: A Beginner&#39;s Guide](https://stacktips.com/courses/spring-boot-for-beginners)
 - [Advanced Python Quiz to Test Your Knowledge](https://stacktips.com/quizzes/python-advance-skill-test)
