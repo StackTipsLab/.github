@@ -9,6 +9,7 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 ### Recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Most Popular Java Interview Questions and Answers](https://stacktips.com/articles/most-popular-java-interview-questions-and-answers)
 - [Essential MongoDB Optimization Tips for Spring Boot Application](https://stacktips.com/articles/essential-mongodb-optimization-tips-for-spring-boot)
 - [Introduction to Java Collections](https://stacktips.com/courses/java-collections/introduction-to-java-collections)
 - [Hashtable in Java](https://stacktips.com/courses/java-collections/hashtable-in-java)
@@ -29,7 +30,6 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 - [ArrayList in Java](https://stacktips.com/courses/java-collections/arraylist-in-java)
 - [Java Collection APIs](https://stacktips.com/courses/java-collections)
 - [Static Variables, Methods, and Class](https://stacktips.com/courses/getting-started-with-java/static-keyowrd-in-java)
-- [Importing CSV Data into PostgreSQL using Spring Boot Batch](https://stacktips.com/articles/importing-csv-data-into-postgresql-using-spring-boot-batch)
 - [Digital Image Processing Practice Quiz](https://stacktips.com/quizzes/digital-image-processing-practice-quiz)
 - [Getting Started with Spring Boot: A Beginner&#39;s Guide](https://stacktips.com/courses/spring-boot-for-beginners)
 - [Advanced Python Quiz to Test Your Knowledge](https://stacktips.com/quizzes/python-advance-skill-test)
