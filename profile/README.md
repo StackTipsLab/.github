@@ -9,6 +9,7 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 ### Recent posts on stacktips.com
 
 <!-- BLOG-POST-LIST:START -->
+- [Prerequisites for Spring Boot Development](https://stacktips.com/courses/spring-boot-for-beginners/prerequisites-for-spring-boot-development)
 - [Java 17 Interview Questions and Answers](https://stacktips.com/articles/java-17-interview-questions-and-answers)
 - [Spring, Spring Boot Interview Question Answers](https://stacktips.com/articles/spring-boot-interview-questions-and-answers)
 - [Most Popular Java Interview Questions and Answers](https://stacktips.com/articles/most-popular-java-interview-questions-and-answers)
@@ -28,7 +29,6 @@ We have over 500 articles and 300+ code snippets published by our valued communi
 - [Stack in Java](https://stacktips.com/courses/java-collections/stack-in-java)
 - [Vector in Java](https://stacktips.com/courses/java-collections/vector-in-java)
 - [CopyOnWriteArrayList in Java](https://stacktips.com/courses/java-collections/copyonwritearraylist-in-java)
-- [LinkedList in Java](https://stacktips.com/courses/java-collections/linkedlist-in-java)
 - [Java Collection APIs](https://stacktips.com/courses/java-collections)
 - [Digital Image Processing Practice Quiz](https://stacktips.com/quizzes/digital-image-processing-practice-quiz)
 - [Getting Started with Spring Boot: A Beginner&#39;s Guide](https://stacktips.com/courses/spring-boot-for-beginners)
